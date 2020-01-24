@@ -1,0 +1,14 @@
+{
+  "name": "atom-core",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Philip Choi",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server",
+    "lambda"
+  ],
+  "scripts": {}
+}
