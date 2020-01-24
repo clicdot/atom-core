@@ -1,0 +1,4 @@
+[submodule "client"]
+	path = client
+	url = https://clicdot:phc15457@github.com/clicdot/atom-client.git
+	branch = origin/development

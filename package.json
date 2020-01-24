@@ -6,9 +6,13 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
+    "auth",
     "client",
-    "server",
-    "lambda"
+    "lambda",
+    "server"
   ],
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "concurrently": "^5.0.2"
+  }
 }
